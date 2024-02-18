@@ -27,5 +27,3 @@ Below Packages were used to code the project
 - import sqlite3
 ```
 
-## Workflow
-
