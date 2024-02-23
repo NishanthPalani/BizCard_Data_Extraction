@@ -399,21 +399,7 @@ if selected == "Data Modification zone":
 
       with col2:
         st.write(" ")
-        # image2 = bytes(str(s3.iloc[11].values).replace("[","").replace("]",""),encoding='utf8')
 
-        # with open("testtest1.png", "wb") as f:
-        #   f.write(image2)
-
-        # st.image(r"/content/testtest1.png")
-
-        #st.image(image)
-        # st.write('Think twice before :red[**Deleting**]')
-        # delete = st.button('**Delete**')
-
-        # if delete:
-        #   cur.execute(f"""DELETE FROM image_db where card_holder_name = '{selected}';""")
-        #   conn.commit()
-        #   st.success("Entry :green[successfully] Deleted from Table.")
 
 
 
