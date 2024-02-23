@@ -10,6 +10,7 @@ BizCardX is a user-friendly tool for extracting information from business cards.
 1. mysql.connector - (To store and retrieve the data)
 1. Streamlit - (To Create Graphical user Interface)
 1. EasyOCR - (To extract text from images)
+1. NGROK - (To build a bridge to execute the teamlit python code and Google Colab)
 
 ## *Packages used*
 
